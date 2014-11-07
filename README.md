@@ -1,4 +1,4 @@
 demo_git
 ========
 
-cours demo git openclass
+cours demo git openClassRoom
